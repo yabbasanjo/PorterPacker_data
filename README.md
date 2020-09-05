@@ -1,2 +1,2 @@
 # PorterPacker_data
- All Jobs Equipment
+ All jobs' equipable Artifact, Relic, Empyrean, Ambuscade (Original and Reforged)
