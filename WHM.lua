@@ -1,11 +1,11 @@
 return {
 "Healer's Cap","Healer's Cap +1","Healer's Cap +2","Theophany Cap","Theophany Cap +1","Theophany Cap +2","Theophany Cap +3",
-"Healer's Briault","Healer's Briault +1","Healer's Briault +2","Theophany Briault","Theophany Briault +1","Theophany Briault +2","Theophany Briault +3",
+"Healer's Bliaut","Healer's Bliaut +1","Healer's Bliaut +2","Theophany Bliaut","Theophany Bliaut +1","Theophany Bliaut +2","Theophany Bliaut +3",
 "Healer's Mitts","Healer's Mitts +1","Healer's Mitts +2","Theophany Mitts","Theophany Mitts +1","Theophany Mitts +2","Theophany Mitts +3",
 "Healer's Pantaloons","Healer's Pantaloons +1","Healer's Pantaloons +2","Theophany Pantaloons","Theophany Pantaloons +1","Theophany Pantaloons +2","Theophany Pantaloons +3",
 "Healer's Duckbills","Healer's Duckbills +1","Healer's Duckbills +2","Theophany Duckbills","Theophany Duckbills +1","Theophany Duckbills +2","Theophany Duckbills +3",
 "Cleric's Cap","Cleric's Cap +1","Cleric's Cap +2","Piety Cap","Piety Cap +1","Piety Cap +2","Piety Cap +3",
-"Cleric's Briault","Cleric's Briault +1","Cleric's Briault +2","Piety Briault","Piety Briault +1","Piety Briault +2","Piety Briault +3",
+"Cleric's Bliaut","Cleric's Bliaut +1","Cleric's Bliaut +2","Piety Bliaut","Piety Bliaut +1","Piety Bliaut +2","Piety Bliaut +3",
 "Cleric's Mitts","Cleric's Mitts +1","Cleric's Mitts +2","Piety Mitts","Piety Mitts +1","Piety Mitts +2","Piety Mitts +3",
 "Cleric's Pantaln.","Cleric's Pantaln. +1","Cleric's Pantaln. +2","Piety Pantaloons","Piety Pantaloons +1","Piety Pantaloons +2","Piety Pantaloons +3",
 "Cleric's Duckbills","Cleric's Duckbills +1","Cleric's Duckbills +2","Piety Duckbills","Piety Duckbills +1","Piety Duckbills +2","Piety Duckbills +3",
