@@ -9,7 +9,7 @@ return {
 "Pantin Dastanas","Pantin Dastanas +1","Pantin Dastanas +2","Pitre Dastanas","Pitre Dastanas +1","Pitre Dastanas +2","Pitre Dastanas +3",
 "Pantin Churidars","Pantin Churidars +1","Pantin Churidars +2","Pitre Churidars","Pitre Churidars +1","Pitre Churidars +2","Pitre Churidars +3",
 "Pantin Babouches","Pantin Babouches +1","Pantin Babouches +2","Pitre Babouches","Pitre Babouches +1","Pitre Babouches +2","Pitre Babouches +3",
-"Cirque Cappello","Cirque Cappello +1","Cirque Cappello +2","Karagoz Capello","Karagoz Capello +1","Karagoz Capello +2","Karagoz Capello +3",
+"Cirque Cappello","Cirque Cappello +1","Cirque Cappello +2","Karagoz Cappello","Karagoz Cappello +1","Karagoz Cappello +2","Karagoz Cappello +3",
 "Cirque Farsetto","Cirque Farsetto +1","Cirque Farsetto +2","Karagoz Farsetto","Karagoz Farsetto +1","Karagoz Farsetto +2","Karagoz Farsetto +3",
 "Cirque Guanti","Cirque Guanti +1","Cirque Guanti +2","Karagoz Guanti","Karagoz Guanti +1","Karagoz Guanti +2","Karagoz Guanti +3",
 "Cirque Pantaloni","Cirque Pantaloni +1","Cirque Pantaloni +2","Karagoz Pantaloni","Karagoz Pantaloni +1","Karagoz Pantaloni +2","Karagoz Pantaloni +3",
