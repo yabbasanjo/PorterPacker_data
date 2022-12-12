@@ -12,7 +12,7 @@ return {
 "Sylvan Gapette","Sylvan Gapette +1","Sylvan Gapette +2","Amini Gapette","Amini Gapette +1","Amini Gapette +2","Amini Gapette +3",
 "Sylvan Caban","Sylvan Caban +1","Sylvan Caban +2","Amini Caban","Amini Caban +1","Amini Caban +2","Amini Caban +3",
 "Sylvan Glovelettes","Sylvan Glovelettes +1","Sylvan Glovelettes +2","Amini Glovelettes","Amini Glovelettes +1","Amini Glovelettes +2","Amini Glovelettes +3",
-"Sylvan Bragues","Sylvan Bragues +1","Sylvan Bragues +2","Amini Brague","Amini Brague +1","Amini Brague +2","Amini Brague +3",
+"Sylvan Bragues","Sylvan Bragues +1","Sylvan Bragues +2","Amini Bragues","Amini Bragues +1","Amini Bragues +2","Amini Bragues +3",
 "Sylvan Bottillons","Sylvan Bottillons +1","Sylvan Bottillons +2","Amini Bottillons","Amini Bottillons +1","Amini Bottillons +2","Amini Bottillons +3",
 "Meghanada Visor","Meghanada Visor +1","Meghanada Visor +2",
 "Meghanada Cuirie","Meghanada Cuirie +1","Meghanada Cuirie +2",
