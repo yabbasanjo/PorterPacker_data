@@ -31,3 +31,12 @@
 		ss33="Storage Slip 33",
 	}
 ```
+
+## Example
+ These are the typical commands i use when changing jobs.  Note that I have the organizer setting enabled to NOT move storage slip items
+ ```
+ jc sch/rdm		-- job change
+ gs org			-- organize gear (and grab storage slips)
+ po pack		-- store gear used by the previous job
+ po unpack		-- grab my scholar's gear
+ ```
